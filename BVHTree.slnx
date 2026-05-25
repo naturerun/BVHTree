@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="层次化包围体(BVH)/层次化包围体(BVH).vcxproj" Id="72dca123-7fe8-499d-986f-7bcdc4219743" />
+  <Project Path="层次化包围体(数组二叉树结合版)/层次化包围体(数组二叉树结合版).vcxproj" Id="c24ae6e2-729c-4812-a0c3-63e350c3cca1" />
+  <Project Path="层次化包围体(数组版)/层次化包围体(数组版).vcxproj" Id="66b98dc9-3a53-4f52-ab52-565f4c44bdae" />
+</Solution>
